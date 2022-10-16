@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+}
+
+.app-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 25px;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
